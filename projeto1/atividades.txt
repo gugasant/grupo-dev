@@ -1,0 +1,33 @@
+ATIVIDADES PENDENTES 
+ -----> Pesquisar: 
+- o que é e o que faz um desenvolvedor frontend ? E quais são as principais linguagens/tecnologia que um desenvolvedor frontend precisa saber. ( Cite pelo menos 3 )
+Resposta: Uma pessoa desenvolvedora Front End é responsável por criar interfaces gráficas por meio de códigos, é quem codifica a parte na qual o usuário interage com essas interfaces web, as principais tecnologias utilizadas nesse trabalho são HTML, CSS e JavaScript, além de diversas outras tecnologias, bibliotecas e frameworks.
+
+- o que é e o que faz um desenvolvedor backend ? E quais são as principais linguagens/tecnologia que um desenvolvedor backend precisa saber. ( Cite pelo menos 3 )
+Resposta: Uma pessoa desenvolvedora Back End é responsável por fazer a ponte entre os dados que vem do navegador (Front End) rumo ao banco de dados e vice-versa, aplicando as regras de negócio, cuidando de validações e segurança. É a parte que trata do lado do servidor. As principais tecnologias são JavaScript, Python, PHP, Java etc.
+
+- o que é e o que faz um desenvolvedor de software? O que é um desenvolvedor Full-stack?
+Resposta: O desenvolvedor de software é o profissional responsável pela programação de sistemas por meio da escrita de códigos. Com isso, ele vai construir os softwares, que são todos os programas produzidos para rodar em computadores, celulares e outros dispositivos que executem esses tipos de sistema. Além da criação ele é responsável pela manutenção e testagem dos softwares. Em resumo, um desenvolvedor Full Stack é quem trabalha com Front End e Back End.
+
+- O que é a web ? Como aconteceu a evolução da web1 até os dias atuais.
+Resposta: A Web (Rede mundial de computadores) designa um sistema de documentos em hipermídia que são interligados e executados na Internet. Os documentos podem estar na forma de vídeos, sons, hipertextos e imagens. Para consultar a informação, pode-se usar um programa de computador chamado navegador, para descarregar informações (chamadas "documentos" ou "páginas") de servidores web (sites) e mostrá-los na tela do usuário. O usuário pode então seguir as hiperligações na página para outros documentos ou mesmo enviar informações de volta para o servidor para interagir com ele.
+
+Web 1.0 - Proposta pelo físico e cientista da computação Tim Berners-Lee em 1989, a primeira geração da web baseava-se em hiperlinks e era utilizada para, basicamente, exibir conteúdo estático com um design semelhante ao de páginas impressas. As exceções a essa regra estavam nos envios de e-mail via formulários de cadastro e afins.
+Web 2.0 - Nela era possível ir além das páginas estáticas que imprimiam conteúdo na tela, já que os sites passaram a oferecer com novas formas de interação. Nessa era, a produção de conteúdo pelos internautas ganhou espaço por meio da possibilidade de inserção de comentários em páginas de blogs e se tornou o centro da experiência web com a chegada das redes sociais.
+Web 3.0 - Normalmente é mencionada em temas relacionados à blockchain, tokens não-fungíveis (os NFTs) e descentralização. A Web 3.0 nasce dos processos de transformação digital e baseia-se no uso de máquinas para melhorar a eficiência de atividades antes realizadas manualmente pelo usuário. A melhoria da eficiência dessas tarefas acontece graças ao uso de tecnologias de automação e machine learning, que também estão na lista de novidades da terceira versão da Web e ajudam, inclusive, a melhorar o desempenho de serviços da própria internet.
+Web 4.0 - A Web 4.0 tende a intensificar o uso da inteligência de dados e a estreitar a linha que separa humano e máquina, expandindo algo que já vem sendo visto na Web 3.0. Nesse caminho, alguns conceitos se destacam, como Internet das coisas (IoT), Integração de serviços, Interação social, Inteligência artificial etc.
+
+- Qual o papel do HTML num site?
+Resposta: O HTML é responsável por estruturar um site, marcando as partes onde vão ficar os elementos nas páginas, dando significado e cuidando de acessividade.  
+
+- Qual o papel do CSS num site?
+Resposta: O CSS lida com a parte visual de um site, ou seja, a estilização dos elementos que compõem o site, além de lidar com a resposnsividade, o que faz com que a interface se adeque a variados dispositivos.
+
+-----> Vídeo aulas 
+1 - https://youtu.be/SV7TL0hxmIQ
+2 - https://youtu.be/vwbegraDXD8
+
+Desenvolvimento de projeto HTML e CSS
+https://youtu.be/PuyZAUyZYDI
+
+" Não importa a quantidade de horas de estudo, só importa ter uma CONSTÂNCIA e uma META "
